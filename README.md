@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Data Science and Machine Learning projects using Python<br><br>Applying algorithms to solve real-world problems<br><br>👯 I’m looking to collaborate on<br><br>Open-source projects in Data Science and Machine Learning<br><br>Python-based development and research projects<br><br>🤝 I’m looking for help with<br><br>Advanced Machine Learning models and optimization techniques<br><br>Model deployment and real-world applications<br><br>🌱 I’m currently learning<br><br>Machine Learning and Data Analytics<br><br>Data visualization and model evaluation techniques<br><br>💬 Ask me about<br><br>Python programming<br><br>Machine Learning fundamentals<br><br>Data Science workflows and problem-solving approaches<br><br>⚡ Fun fact<br><br>I enjoy transforming complex data into actionable insights.
+BTech Computer Science student passionate about Data Science, Machine Learning, and problem-solving using Python.
+<br>I enjoy transforming complex data into actionable insights.
 
 
 ## 🌐 Socials:
